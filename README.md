@@ -3,5 +3,5 @@ The working principle is fairly simple, the code first downloads the html file o
 then checked recursively again and again.
 
 use case:
-python3 static_spider.py
+python3 Static_Spider.py
 #Note: This only works with static websites.
